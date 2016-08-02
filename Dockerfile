@@ -6,7 +6,7 @@
 #
 # Version     0.7
 
-FROM williamyeh/java7
+FROM williamyeh/java8
 MAINTAINER William Yeh <william.pjyeh@gmail.com>
 
 
